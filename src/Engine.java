@@ -6,7 +6,7 @@ public class Engine {
 
 		do {
 
-			System.out.println("****Hesap Makinası****");
+			
 			System.out.println("Çarpma işlemi için 1 Seçiniz");
 			System.out.println("Bölme işlemi için 2 Seçiniz");
 			System.out.println("Toplama işlemi için 3 Seçiniz");
